@@ -9,13 +9,14 @@
   "author": "Remix team",
   "license": "MIT",
   "dependencies": {
-    "form-data": "^2.5.1",
-    "commander": "^3.0.2",
-    "inquirer": "^1.0.0",
-    "ipfs-http-client": "^35.1.0",
-    "is-base64": "^1.0.0",
+    "commander": "^5.1.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "ipfs-http-client": "^44.0.1",
+    "is-base64": "^1.1.0",
     "is-url": "^1.2.4",
-    "semver": "^6.3.0",
-    "signale": "^1.4.0"
+    "semver": "^7.3.2",
+    "signale": "^1.4.0",
+    "yesno": "^0.3.1"
   }
 }
